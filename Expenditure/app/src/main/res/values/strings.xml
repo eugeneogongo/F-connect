@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">"Expenditure "</string>
-    <string-array name="months">
-        <item>january</item>
-        <item>february</item>
-        <item>march</item>
-    </string-array>
-</resources>
