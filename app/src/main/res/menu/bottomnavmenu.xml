@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Shop"
+        android:icon="@drawable/shop"
+        android:id="@+id/menuproducts"
+        />
+    <item
+        android:title="Post a Product"
+        android:id="@+id/menupostproduct"
+        android:icon="@mipmap/ic_near"
+        />
+    <item
+        android:title="Profile"
+        android:id="@+id/menuprofile"
+        android:icon="@mipmap/ic_account"
+        />
+</menu>

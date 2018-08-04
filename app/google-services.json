@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "127722951291",
+    "firebase_url": "https://f-connect.firebaseio.com",
+    "project_id": "f-connect",
+    "storage_bucket": "f-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127722951291:android:d4fe8e38ce529025",
+        "android_client_info": {
+          "package_name": "com.youstar.f_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127722951291-47elj7gupuhmd0a80dtts9n4c4jmohso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youstar.f_connect",
+            "certificate_hash": "897f97c2779699be372720b70c4d1f5c35d0f35e"
+          }
+        },
+        {
+          "client_id": "127722951291-1scp7tf4pa3fh81n2nbep0bhjdc2i8p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ_K9Z6logeiHPAj_WsfLpQk5TI9_zfx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127722951291-1scp7tf4pa3fh81n2nbep0bhjdc2i8p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
